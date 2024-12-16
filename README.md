@@ -1,5 +1,5 @@
 # Mascot_design_Figma
-Designed mascot designs using Figma. I can consider Figma as a strength, I can almost do everything in it.
+Designed mascot designs using Figma. O_O
 # Capsule Mascot
 ![capsule 4](https://github.com/user-attachments/assets/b6d5bf22-cd30-4afc-b6f8-195869bd1243)
 ![capsule 3](https://github.com/user-attachments/assets/58e950b7-539b-433a-9034-3c1a66f77aa9)
